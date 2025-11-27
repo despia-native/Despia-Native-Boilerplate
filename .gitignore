@@ -32,8 +32,4 @@ package/**/*.css
 package/**/*.vue
 package/**/**/*.vue
 
-kitchen-sink/react/dist
-kitchen-sink/vue/dist
-kitchen-sink/svelte/dist
-
 src/vue-temp
